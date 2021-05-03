@@ -1,0 +1,11 @@
+import {{name}} from '../'
+
+export default {
+  title: 'Lx{{name}}',
+  component: {{name}},
+}
+
+export const normal = () => ({
+  components: { {{name}} },
+  template: `<lx-{{name}}>普通按钮</lx-{{name}}>`
+})
