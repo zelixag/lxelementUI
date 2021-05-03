@@ -24,7 +24,6 @@
     "@storybook/addon-links": "^6.2.9",
     "@storybook/vue": "^6.2.9",
     "babel-loader": "^8.2.2",
-    "lerna": "^4.0.0",
     "plop": "^2.7.4",
     "vue-loader": "^15.9.6",
     "vue-template-compiler": "^2.6.12"
