@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <button @click="handleClick"><slot></slot></button>
+  <div class="lx-button">
+    <button @click="handleClick" ><slot></slot></button>
   </div>
 </template>
 

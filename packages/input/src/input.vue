@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="lx-input">
     <input v-bind="$attrs" :type="type" :value="value" @input="handleInput">
   </div>
 </template>

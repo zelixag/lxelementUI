@@ -1,5 +1,5 @@
 <template>
-  <div class="lx-formItem">lxformItem</div>
+  <div class="lx-formItem form-item">lxformItem</div>
 </template>
 
 <script>
